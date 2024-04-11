@@ -56,7 +56,14 @@
 36. <https://blog.devgenius.io/python-websocket-introduction-and-implementation-b2bb996558fb>
 37. <https://medium.com/geekculture/python-threading-in-python3-part-one-cfadc174ceb8>
 38. <https://blog.devgenius.io/python-threading-in-python3-part-two-c711c17409ce>
-39.
+39. <https://blog.devgenius.io/chatgpt-how-to-use-it-with-python-5d729ac34c0d>
+40. <https://medium.com/geekculture/10-must-know-dictionary-operations-in-python-99916effa0ad>
+41. <https://blog.devgenius.io/how-to-create-your-own-openai-chatbot-in-python-809694569901>
+42. <https://blog.devgenius.io/python-click-library-introduction-6ba5d936ef82>
+43. <https://medium.com/geekculture/python-useful-code-snippets-part-one-d4258620b561>
+44. <https://medium.com/geekculture/python-useful-code-snippets-part-two-c7715cb1d84b>
+45. <https://medium.com/geekculture/python-useful-tips-part-four-5407896ebf58>
+46. <https://medium.com/geekculture/python-walrus-operator-83fa5b133ada>
 
 ### Kubernetes
 
@@ -97,6 +104,54 @@
 35. <https://medium.com/geekculture/k8s-pod-cpu-resource-10653a5a438e>
 36. <https://blog.devgenius.io/k8s-pod-topology-6639cc2b34cc>
 37. <https://blog.devgenius.io/k8s-container-security-418716cdf27a>
+38. <https://medium.com/geekculture/kubectl-getting-cluster-information-6e4d61c28f83>
+39. <https://blog.devgenius.io/kubectl-node-operations-3ca5e62e919b>
+40. <https://medium.com/geekculture/k8s-container-file-system-ec26eda8b3ea>
+41. <https://medium.com/geekculture/helmfile-introduction-f63c42244dcc>
+42. <https://blog.devgenius.io/k8s-robusta-k8s-troubleshooting-platform-efd389b47f24>
+43. <https://blog.devgenius.io/k8s-chatgpt-bot-for-intelligent-troubleshooting-36e0a4a071c5>
+44. <https://blog.devgenius.io/k8s-troubleshooting-pod-zombie-process-8f208df1b332>
+45. <https://blog.devgenius.io/kubectl-application-operations-part-one-d733a8b3ee73>
+46. <https://medium.com/geekculture/kubectl-application-operations-part-two-7b00fcad7898>
+47. <https://blog.devgenius.io/kubectl-pod-operations-4b30d8ee1780>
+48. <https://medium.com/geekculture/devops-in-k8s-containers-part-one-5c3149950d72>
+49. <https://medium.com/geekculture/devops-in-k8s-containers-part-two-bffa9ea1121a>
+50. <https://blog.devgenius.io/devops-in-k8s-write-dockerfile-efficiently-37eaedf87163>
+51. <https://medium.com/geekculture/devops-in-linux-proc-directory-part-two-1ac6f6387693>
+52. <https://blog.devgenius.io/devops-in-k8s-container-storage-e3091f2920d5>
+53. <https://blog.devgenius.io/devops-in-k8s-pod-namespace-726d5590c207>
+54. <https://medium.com/geekculture/k8s-troubleshooting-pod-crashloopbackoff-2088122542a8>
+55. <https://tonylixu.medium.com/devops-in-k8s-k8s-architecture-4e27e6c8cd15>
+56. <https://blog.devgenius.io/devops-in-k8s-pod-cgroups-ed05181865f9>
+57. <https://tonylixu.medium.com/kubectl-plugins-operation-f93274622447>
+58. <https://blog.devgenius.io/devops-in-k8s-k8s-manifest-file-94925bb18d00>
+59. <https://tonylixu.medium.com/devops-in-k8s-pod-basics-44fd9542421c>
+60. <https://blog.devgenius.io/devops-in-k8s-pod-lifecycle-part-one-c5c78d9da941>
+61. <https://medium.com/geekculture/devops-in-k8s-pod-lifecycle-part-two-ff10c7f0267>
+62. <https://blog.devgenius.io/k8s-kustomize-introduction-2d17119b8835>
+63. <https://medium.com/geekculture/devops-in-k8s-ephemeral-containers-bfcaafc4bda0>
+64. <https://medium.com/geekculture/k8s-serviceaccount-token-313d62aee119>
+65. <https://blog.devgenius.io/devops-in-k8s-pod-downward-api-571399049013>
+66. <https://blog.devgenius.io/k8s-troubleshooting-pod-imagepullbackoff-error-d89f47e23b72>
+67. <https://blog.devgenius.io/devops-in-k8s-replicaset-997858e3914>
+68. <https://medium.com/geekculture/devops-in-k8s-deployment-12340ddba74a>
+69. <https://medium.com/geekculture/kubectl-best-practices-c4ff809167dd>
+70. <https://blog.devgenius.io/devops-in-k8s-statefulsets-part-one-ef7ba18cba8c>
+71. <https://blog.devgenius.io/devops-in-k8s-statefulsets-part-two-48d59d222012>
+72. <https://medium.com/geekculture/helm-how-release-information-is-stored-778d7f0b7498>
+73. <https://blog.devgenius.io/k8s-tools-kubeshark-464443bea7d7>
+74. <https://medium.com/geekculture/devops-in-k8s-pod-qos-fec06b5f594b>
+75. <https://blog.devgenius.io/devops-in-k8s-deployment-rolling-update-f022285c6f90>
+76. <https://blog.devgenius.io/devops-in-k8s-controller-e6db7718a19>
+77. <https://blog.devgenius.io/k8s-troubleshooting-pod-in-terminating-or-unknown-status-2878f6ec66b8>
+78. <https://medium.com/geekculture/devops-in-k8s-job-58963f991ef2>
+79. <https://blog.devgenius.io/devops-in-k8s-cronjob-e0d37d0fadc8>
+80. <https://medium.com/geekculture/devops-in-k8s-api-server-request-handler-chain-panic-recovery-16f54566be20>
+81. <https://blog.devgenius.io/devops-in-k8s-api-server-request-handler-chain-request-timeout-b0cf597ddcb2>
+82. <https://blog.devgenius.io/devops-in-k8s-daemonset-28c6f1567874>
+83. <https://blog.devgenius.io/k8s-tools-kubevela-part-one-f93078b06ed5>
+84. <https://blog.devgenius.io/devops-in-k8s-api-server-request-handler-chain-authentication-28d6b17ca001>
+85.
 
 ### Docker
 
@@ -106,6 +161,7 @@
 4. <https://medium.com/geekculture/docker-storage-driver-667c57169379>
 5. <https://blog.devgenius.io/docker-data-volume-af83671e25af>
 6. <https://blog.devgenius.io/container-namespace-introduction-6a1e26f8707a>
+7. <https://blog.devgenius.io/k8s-kaniko-introduction-63f54d8a28ab>
 
 ### Linux
 
@@ -140,6 +196,14 @@
 29. <https://medium.com/geekculture/linux-proc-directory-part-two-1b59b7b404c1>
 30. <https://blog.devgenius.io/k8s-pod-topology-6639cc2b34cc>
 31. <https://medium.com/geekculture/devops-in-linux-useful-tricks-8cca1a177c81>
+32. <https://medium.com/geekculture/linux-proc-directory-part-three-346b3141cc7f>
+33. <https://blog.devgenius.io/linux-proc-pid-directory-part-four-c7600614b748>
+34. <https://medium.com/geekculture/linux-proc-pid-directory-part-five-a10dacf49b4a>
+35. <https://medium.com/geekculture/devops-in-linux-routing-table-a7a76aff3be3>
+36. <https://blog.devgenius.io/devops-in-linux-systemd-configuration-files-8e7a85b03543>
+37. <https://blog.devgenius.io/devops-in-linux-systemd-service-and-socket-files-d259274a46e>
+38. <https://tonylixu.medium.com/devops-in-linux-opensnoop-command-ca829502bb0c>
+39.
 
 ### Ansible
 
@@ -150,6 +214,7 @@
 5. <https://medium.com/geekculture/ansible-boot-camp-4-playbooks-21084361e492>
 6. <https://medium.com/geekculture/ansible-boot-camp-5-handlers-4290f1839c12>
 7. <https://medium.com/geekculture/ansible-boot-camp-5-variables-6782313affc3>
+8. <https://blog.devgenius.io/ansible-boot-camp-5-conditions-23241cf38360>
 
 ### Jenkins
 
@@ -164,7 +229,32 @@
 5. <https://medium.com/geekculture/devops-basic-linux-commands-part-4-disk-785230681165>
 6. <https://blog.devgenius.io/devops-in-linux-environment-variables-e1c38bda19fe>
 7. <https://blog.devgenius.io/what-is-openid-connect-3c7e0463b684>
-8.
+8. <https://medium.com/geekculture/devops-in-linux-makefile-part-one-a1634acf1ae0>
+9. <https://medium.com/geekculture/devops-in-linux-makefile-part-two-773336b2e05e>
+10. <https://blog.devgenius.io/devops-in-linux-http-keep-alive-vs-tcp-keepalive-bf8f1f3afc9>
+11. <https://medium.com/geekculture/devops-in-linux-file-system-933b1458789a>
+12. <https://medium.com/geekculture/devops-in-linux-different-ways-to-search-process-2faf6ff4f67d>
+13. <https://medium.com/geekculture/devops-in-linux-proc-directory-part-one-1321f24eb133>
+14. <https://blog.devgenius.io/devops-in-linux-maximum-tcp-connections-in-a-linux-server-98af6ff65a4c>
+15. <https://tonylixu.medium.com/devops-in-linux-proc-directory-part-three-fc07ad24ff3e>
+16. <https://medium.com/geekculture/devops-in-linux-dns-introduction-cd43afcf5687>
+17. <https://medium.com/geekculture/devops-in-linux-piping-deep-dive-7427fa9c4ae4>
+18. <https://medium.com/geekculture/devops-in-linux-proc-directory-part-four-613e8f09f037>
+19. <https://blog.devgenius.io/devops-in-linux-systemd-introduction-db7f49cb566b>
+20. <https://medium.com/geekculture/devops-in-linux-memory-over-commit-1f2f552f8d2d>
+21. <https://medium.com/geekculture/devops-in-linux-pstree-command-98a483ad22b>
+22. <https://blog.devgenius.io/devops-in-linux-jq-command-c9237b6887a8>
+23. <https://blog.devgenius.io/devops-in-linux-nslookup-32b623d809a2>
+24. <https://medium.com/geekculture/linux-useful-tricks-telnet-alternatives-ed9f342149a1>
+25. <https://medium.com/geekculture/devops-in-linux-systemd-service-operations-part-one-6b7e407c45a1>
+26. <https://blog.devgenius.io/devops-in-linux-http-protocol-f5863e4f98b2>
+27. <https://medium.com/geekculture/devops-in-linux-sys-bus-directory-486c30bf5ceb>
+28. <https://medium.com/geekculture/devops-in-linux-systemd-service-operations-part-two-4cf01f4b6dc5>
+29. <https://tonylixu.medium.com/devops-in-linux-sys-block-directory-c0f0ebdcc5ae>
+30. <https://blog.devgenius.io/devops-in-linux-systemd-timer-4e95f57b6d71>
+31. <https://medium.com/geekculture/devops-in-linux-pcstat-command-33e1b47c8c03>
+32. <https://medium.com/geekculture/devops-in-linux-sys-class-directory-1d6cc798c13d>
+33.
 
 ### Go
 
@@ -174,4 +264,10 @@
 4. <https://medium.com/geekculture/devops-in-go-variables-42022d5088bc>
 5. <https://blog.devgenius.io/devops-in-go-basic-data-types-492d69f733ca>
 6. <https://medium.com/geekculture/devops-in-go-string-a2154f6de1a6>
-7.
+7. <https://tonylixu.medium.com/devops-in-go-aws-operation-reserved-instances-1224e437e54c>
+8. <https://blog.devgenius.io/devops-in-go-constants-22bde5ed0148>
+9. <https://medium.com/geekculture/devops-in-go-map-4a8daffa0b29>
+10. <https://blog.devgenius.io/devops-in-go-pointers-2cf09f3e1099>
+11. <https://medium.com/geekculture/devops-in-go-array-495a306de388>
+12. <https://medium.com/geekculture/devops-in-go-struct-a1cd0adbde22>
+13. <https://medium.com/geekculture/devops-in-go-if-statement-940c6e0878ae>
