@@ -24,10 +24,10 @@
 21. <https://blog.devgenius.io/terraform-basics-backend-5d3b8712f47b>
 22. <https://tonylixu.medium.com/terraform-basics-state-f677a7e3c8e3>
 23. <https://tonylixu.medium.com/terraform-basics-workspace-323f97abde1c>
-24. https://tonylixu.medium.com/terraform-cloud-introduction-6eb491fe79a5
-25. https://tonylixu.medium.com/terraform-cloud-migrating-from-local-to-terraform-cloud-ace405282dba
-26. https://medium.com/cloud-native-daily/terraform-cloud-workspace-3e993ce1b472
-27. https://tonylixu.medium.com/terraform-cloud-run-17991bdd4ef7
+24. <https://tonylixu.medium.com/terraform-cloud-introduction-6eb491fe79a5>
+25. <https://tonylixu.medium.com/terraform-cloud-migrating-from-local-to-terraform-cloud-ace405282dba>
+26. <https://medium.com/cloud-native-daily/terraform-cloud-workspace-3e993ce1b472>
+27. <https://tonylixu.medium.com/terraform-cloud-run-17991bdd4ef7>
 
 ### Docker
 
@@ -41,8 +41,8 @@
 8. <https://tonylixu.medium.com/docker-run-vs-cmd-vs-entrypoint-57f248b95889>
 9. <https://tonylixu.medium.com/docker-2023-interview-questions-part-one-57f01474edaf>
 10. <https://medium.com/cloud-native-daily/docker-2023-interview-questions-part-two-4ee436487b35>
-11. https://medium.com/cloud-native-daily/docker-2023-interview-questions-part-three-84fe83147260
-12. https://medium.com/cloud-native-daily/docker-2023-interview-questions-part-four-95aaefccd8f9
+11. <https://medium.com/cloud-native-daily/docker-2023-interview-questions-part-three-84fe83147260>
+12. <https://medium.com/cloud-native-daily/docker-2023-interview-questions-part-four-95aaefccd8f9>
 
 ### Ansible
 
@@ -58,7 +58,6 @@
 ### Jenkins
 
 1. <https://medium.com/geekculture/jenkins-shared-library-introduction-49d893d6a156>
-
 
 ### Go
 

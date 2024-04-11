@@ -101,3 +101,11 @@
 99. <https://tonylixu.medium.com/devops-in-k8s-rbac-part-one-11ea3525e340>
 100. <https://blog.devgenius.io/devops-in-k8s-security-context-9c3a79e08b30>
 101. <https://tonylixu.medium.com/devops-in-k8s-api-server-request-handler-chain-impersonation-3fe4d8bac1a3>
+102. <https://blog.devgenius.io/devops-in-k8s-kubectl-create-vs-apply-7c35d6992cc1>
+103. <https://medium.com/cloud-native-daily/devops-in-k8s-api-server-request-handler-chain-authorization-f050b15c4a32>
+104. <https://blog.devgenius.io/k8s-troubleshooting-pod-in-pending-status-26babd539dcf>
+105. <https://medium.com/cloud-native-daily/helm-basics-7328b895d19b>
+106. <https://medium.com/cloud-native-daily/devops-in-k8s-service-part-one-bac6e3bfaf07>
+107. <https://medium.com/cloud-native-daily/devops-in-k8s-service-part-two-a842540d3a23>
+108. <https://blog.devgenius.io/k8s-troubleshooting-pod-in-containercreating-status-e89e093d996e>
+109.

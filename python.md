@@ -58,3 +58,8 @@
 56. <https://python.plainenglish.io/python-useful-tips-write-efficient-python-code-7682ce8cf7c7>
 57. <https://python.plainenglish.io/python-useful-tips-part-5-c98ee6d7df05>
 58. <https://python.plainenglish.io/python-useful-tips-decorator-one-f82b5870977>
+59. <https://python.plainenglish.io/python-useful-tips-decorator-one-f82b5870977>
+60. <https://python.plainenglish.io/python-useful-tips-decorator-two-d1f531d16247>
+61. <https://python.plainenglish.io/python-useful-tips-best-practices-for-using-numbers-and-strings-43880ade3d80>
+62. <https://python.plainenglish.io/python-dnspython-toolkit-2fc575678194>
+63.
