@@ -15,4 +15,7 @@
 13. <https://tonylixu.medium.com/docker-container-image-caching-ca37d2f9fa6c>
 14. <https://medium.com/cloud-native-daily/docker-log-management-610de1addd13>
 15. <https://medium.com/cloud-native-daily/docker-data-volume-226ba7a26424>
-16.
+16. <https://medium.com/cloud-native-daily/docker-common-monitoring-solution-one-8d2134834900>
+17. <https://tonylixu.medium.com/docker-common-monitoring-solution-two-666a0f295df8>
+18. <https://tonylixu.medium.com/docker-container-network-basics-a15379ee045d>
+19. <https://tonylixu.medium.com/docker-container-network-basics-2d7d0e45ccf8>

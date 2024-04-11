@@ -13,3 +13,7 @@
 11. <https://medium.com/geekculture/devops-in-go-array-495a306de388>
 12. <https://medium.com/geekculture/devops-in-go-struct-a1cd0adbde22>
 13. <https://medium.com/geekculture/devops-in-go-if-statement-940c6e0878ae>
+14. <https://tonylixu.medium.com/devops-in-go-cobra-module-introduction-71e3659c4e9f>
+15. <https://tonylixu.medium.com/devops-in-go-bytes-module-introduction-b2211a333e16>
+16. <https://tonylixu.medium.com/devops-in-go-template-module-introduction-e69354dcdb73>
+17.

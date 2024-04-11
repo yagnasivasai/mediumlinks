@@ -15,7 +15,8 @@
 13. <https://blog.devgenius.io/git-basic-principles-four-working-directory-and-staging-area-73990ec4fa30>
 14. <https://blog.devgenius.io/git-basic-principles-five-git-commit-2ed5bb0fd0a0>
 15. <https://blog.devgenius.io/git-basic-principles-six-git-branch-f81c47b62cd1>
-16.
+16. <https://tonylixu.medium.com/gitops-how-to-incorporate-app-code-into-a-container-image-63f6adfc5581>
+17.
 
 ### Project
 
@@ -33,7 +34,11 @@
 7. <https://medium.com/cloud-native-daily/devops-in-argo-cd-monitoring-8b3cc7411ef2>
 8. <https://tonylixu.medium.com/devops-in-argo-cd-local-user-management-30c3d04ea23b>
 9. <https://blog.devgenius.io/devops-in-argo-cd-service-account-4c76db0ccbac>
-10.
+10. <https://blog.devgenius.io/devops-in-argo-rollouts-blue-green-deployment-f24084534213>
+11. <https://blog.devgenius.io/devops-in-argo-rollouts-introduction-5506c0d72883>
+12. <https://medium.com/cloud-native-daily/devops-in-argo-rollouts-installation-f4d846d406e7>
+13. <https://medium.com/cloud-native-daily/devops-in-argo-rollouts-canary-deployment-e1bc875090c2>
+14.
 
 ### Jenkins
 
