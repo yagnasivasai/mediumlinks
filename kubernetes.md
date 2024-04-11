@@ -108,4 +108,10 @@
 106. <https://medium.com/cloud-native-daily/devops-in-k8s-service-part-one-bac6e3bfaf07>
 107. <https://medium.com/cloud-native-daily/devops-in-k8s-service-part-two-a842540d3a23>
 108. <https://blog.devgenius.io/k8s-troubleshooting-pod-in-containercreating-status-e89e093d996e>
-109.
+109. <https://tonylixu.medium.com/k8s-troubleshooting-target-pod-selector-misconfig-426a042ad5f8>
+110. <https://tonylixu.medium.com/k8s-tools-k8spacket-9a2d05416d51>
+111. <https://blog.devgenius.io/k8s-troubleshooting-check-previous-crashed-pod-logs-76ac2fa6d29c>
+112. <https://blog.devgenius.io/k8s-storage-volumes-c9fbd560e6df>
+113. <https://tonylixu.medium.com/devops-in-k8s-coredns-part-one-2c12e6aa0ddc>
+114. <https://tonylixu.medium.com/devops-in-k8s-coredns-part-two-96f59f735ea2>
+115. <https://medium.com/cloud-native-daily/k8s-2023-interview-questions-fundamentals-91e67e2f6799>

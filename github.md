@@ -20,7 +20,7 @@
 ### Project
 
 1. <https://tonylixu.medium.com/devops-project-implement-mysql-master-slave-on-ec2-aa6ba7494c6f>
-2.
+2. <https://blog.devgenius.io/http-cookie-vs-session-b67de0e19309>
 
 ### ArgoCD
 
@@ -30,3 +30,11 @@
 4. <https://blog.devgenius.io/devops-in-argo-cd-resource-hooks-785e10912ce2>
 5. <https://medium.com/cloud-native-daily/devops-in-argo-cd-sync-wave-e030eba08157>
 6. <https://medium.com/cloud-native-daily/devops-in-argo-cd-disaster-recovery-159bd0a4f285>
+7. <https://medium.com/cloud-native-daily/devops-in-argo-cd-monitoring-8b3cc7411ef2>
+8. <https://tonylixu.medium.com/devops-in-argo-cd-local-user-management-30c3d04ea23b>
+9. <https://blog.devgenius.io/devops-in-argo-cd-service-account-4c76db0ccbac>
+10.
+
+### Jenkins
+
+1. <https://medium.com/geekculture/jenkins-shared-library-introduction-49d893d6a156>

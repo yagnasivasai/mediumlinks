@@ -62,4 +62,6 @@
 60. <https://python.plainenglish.io/python-useful-tips-decorator-two-d1f531d16247>
 61. <https://python.plainenglish.io/python-useful-tips-best-practices-for-using-numbers-and-strings-43880ade3d80>
 62. <https://python.plainenglish.io/python-dnspython-toolkit-2fc575678194>
-63.
+63. <https://blog.devgenius.io/python-best-practices-for-using-list-tuple-dict-and-set-19d3254cf7d0>
+64. <https://blog.devgenius.io/python-best-practices-for-writing-functions-387cec3f8c54>
+65.

@@ -81,4 +81,10 @@
 79. <https://tonylixu.medium.com/devops-in-linux-bin-and-usr-bin-62666bee2d1d>
 80. <https://blog.devgenius.io/linux-i-o-redirection-d590f688d9ff>
 81. <https://blog.devgenius.io/devops-in-linux-history-command-c28651461cd6>
-82.
+82. <https://tonylixu.medium.com/devops-in-linux-etc-cfe8ffab0e41>
+83. <https://blog.devgenius.io/linux-iowait-fundamentals-1d5b739fc653>
+84. <https://medium.com/cloud-native-daily/devops-in-k8s-linux-capabilities-a308fa6b2038>
+85. <https://tonylixu.medium.com/devops-in-linux-mnt-da4e41b56fc6>
+86. <https://blog.devgenius.io/devops-in-linux-sticky-bit-d1b08f46258>
+87. <https://blog.devgenius.io/devops-in-linux-tmp-532a213a6bb1>
+88.
