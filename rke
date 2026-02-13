@@ -1,0 +1,85 @@
+---
+
+### Download the RKE2 Packages with the below URL(Download SHA,Rke2.linux,Images and CNI)
+=========================================================================================
+[text](https://github.com/rancher/rke2/releases)
+
+
+### Disabling Selinux and Swap (Run these Commands both in Master and WorkerNodes)
+==============================
+sudo sed -i 's/^SELINUX=.*/SELINUX=disabled/' /etc/selinux/config && \
+grubby --update-kernel ALL --args selinux=0 && \
+systemctl disable swap.target && \
+swapoff -a
+
+
+### Disabling Nmcloud Service (Run these Commands both in Master and WorkerNodes)
+=============================
+systemctl stop nm-cloud-setup.timer && \
+systemctl disable nm-cloud-setup.timer && \
+systemctl stop nm-cloud-setup.service && \
+systemctl disable nm-cloud-setup.service
+
+
+### Create the Below folders
+============================
+mkdir -p /var/lib/rancher/rke2/agent/images/          ---> copy the images to this folder (Master and Workers)
+mkdir -p /etc/rancher/rke2                            ---> configuration folder create config.yaml (Master)
+mkdir -p /var/lib/rancher/rke2/server/manifests/      ---> configuration folder for cni plugin, create cilium.yaml (Master)
+mkdir -p /var/lib/rancher/rke2/agent/images/          
+mkdir -p /etc/rancher/rke2                           
+mkdir -p /var/lib/rancher/rke2/server/manifests/      
+
+### Copy the packages to the images folder and create configuration files
+=========================================================================
+cp rke2-images-cilium.linux-amd64.tar.zst rke2-images-core.linux-amd64.tar.zst /var/lib/rancher/rke2/agent/images/
+
+vi /etc/rancher/rke2/config.yaml
+(look for the official documentation for any changes and also custom changes)
+
+cni:
+  - cilium
+disable:
+  - rke2-canal
+  - rke2-kube-proxy
+disable-cloud-controller: true
+disable-kube-proxy: true
+
+
+vi /var/lib/rancher/rke2/server/manifests/rke2-cilium-config.yaml 
+(look for the official documentation for any changes and also custom changes)
+
+apiVersion: helm.cattle.io/v1
+kind: HelmChartConfig
+metadata:
+  name: rke2-cilium
+  namespace: kube-system
+spec:
+  valuesContent: |-
+    kubeProxyReplacement: true
+    k8sServiceHost: 200.0.145.204
+    k8sServicePort: 6443
+    cni:
+      chainingMode: "none"
+    hubble:
+      enabled: true
+      relay:
+        enabled: true
+      ui:
+        enabled: true
+
+
+chmod 777 install.sh  
+INSTALL_RKE2_ARTIFACT_PATH=<locattion> sh install.sh
+
+systemctl enable rke2-server.service
+systemctl start rke2-server.service
+
+sudo ln -s /var/lib/rancher/rke2/data/v1*/bin/kubectl /usr/bin/kubectl 
+sudo ln -s /var/run/k3s/containerd/containerd.sock /var/run/containerd/containerd.sock 
+
+mkdir -p ~/.kube && \
+ln -s /etc/rancher/rke2/rke2.yaml ~/.kube/config && \
+chmod 600 /root/.kube/config && \
+ln -s /var/lib/rancher/rke2/agent/etc/crictl.yaml /etc/crictl.yaml && \
+kubectl get nodes
